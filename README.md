@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on React project.
-- 🌱 I’m currently learning Spring Boot,Flutter,Firebase etc..
+- 🔭 I’m currently working on React an React Native projects.
+- 🌱 I’m currently MERN stack,React Native,Firebase etc..
 - 👯 I’m looking to collaborate on OpenSource Projects.
 - 💬 Ask me about React,Spring Boot.
 - 📫 How to reach me: deshanc321@gmail.com
