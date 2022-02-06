@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on React an React Native projects.
 - 🌱 I’m currently MERN stack,React Native,Firebase etc..
 - 👯 I’m looking to collaborate on OpenSource Projects.
-- 💬 Ask me about React,Spring Boot.
+- 💬 Ask me about React,React Native,spring Boot,Node Js.
 - 📫 How to reach me: deshanc321@gmail.com
 
 
