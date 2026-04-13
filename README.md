@@ -1,6 +1,6 @@
 ### Hi, I'm Deshan Chathuranga 👋
 
-**Senior Software Engineer | [cite_start]MSc Data Science Student** 
+**Senior Software Engineer | MSc Data Science Student** 
 
 I am a results-driven SaaS Software Engineer with nearly 4 years of experience architecting scalable, multi-tenant web applications. Currently, I am focused on bridging backend engineering with machine learning to build high-performance AI orchestration tools.
 
