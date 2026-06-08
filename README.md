@@ -50,11 +50,3 @@ I am a results-driven SaaS Software Engineer with nearly 4 years of experience a
 </p>
 
 ---
-
-### GitHub Stats
-
-<p align="left">
-  <img alt="Deshan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deshan-Chathuranga&show_icons=true&theme=dark" />
-  <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deshan-Chathuranga&layout=compact&theme=dark" />
-</p>
